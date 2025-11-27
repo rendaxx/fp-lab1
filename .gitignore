@@ -23,3 +23,7 @@ erl_crash.dump
 lab1-*.tar
 
 .idea
+/.gradle
+java/.gradle
+java/build/
+.elixir_ls
