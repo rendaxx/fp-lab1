@@ -31,4 +31,3 @@ defmodule SumSquareDifferenceTest do
     assert SumSquareDifference.with_stream(10) == 2640
   end
 end
-

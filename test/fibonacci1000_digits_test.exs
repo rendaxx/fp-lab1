@@ -31,4 +31,3 @@ defmodule Fibonacci1000DigitsTest do
     assert Fibonacci1000Digits.with_stream(1000) == 4782
   end
 end
-
