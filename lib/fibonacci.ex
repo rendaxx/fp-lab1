@@ -33,7 +33,7 @@ defmodule Fibonacci1000Digits do
     end
   end
 
-  # 2. Модульная реализация: генерация → фильтрация → свёртка
+  # 2. Модульная реализация: генерация -> фильтрация -> свёртка
 
   def modular(digits \\ @target_digits, limit \\ 5000) do
     limit

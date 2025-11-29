@@ -38,7 +38,7 @@ defmodule SumSquareDifference do
     {sum + n, sum_sq + n * n}
   end
 
-  # 2. Модульная реализация: генерация → фильтрация → свёртка
+  # 2. Модульная реализация: генерация -> фильтрация -> свёртка
 
   def modular(n \\ @default_n) when n >= 0 do
     numbers =
